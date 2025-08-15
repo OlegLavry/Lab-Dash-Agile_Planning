@@ -1,2 +1,2 @@
-# Lab-Dash-Agile_Planning
+# Lab-Agile-Planning
 This repository contains the Lab for Agile Planning
